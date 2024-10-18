@@ -40,11 +40,19 @@ This research aims to bridge the gap between network optimization and social com
 This structured approach clarifies your research focus and sets a strong foundation for exploring the intersection of technology and social dynamics in network optimization.
 
 Citations:
+
 [1] https://www.mdpi.com/2079-9292/11/20/3371
+
 [2] https://www.cachefly.com/news/computer-network-routing-how-it-works/
+
 [3] https://www.internetsociety.org/resources/doc/2020/internet-impact-assessment-toolkit/use-case-interconnection-and-routing/
+
 [4] https://arxiv.org/html/2405.17309v1
+
 [5] https://www.sciencedirect.com/science/article/pii/S240595952200145X
+
 [6] https://github.com/jwwthu/GNN-Communication-Networks
+
 [7] https://www.sciencedirect.com/science/article/abs/pii/S0167739X17304326
+
 [8] https://www.sciencedirect.com/science/article/abs/pii/S0140366421002887
